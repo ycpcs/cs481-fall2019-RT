@@ -35,7 +35,7 @@ A use case or user story documents, from the perspective of a user of the system
 
 Your team can create use cases or user stories: it's up to you.
 
-If you're a little rusty on how to identify and document requirements, please review [Lecture 8](https://ycpcs.github.io/cs320-spring2019/lectures/lecture08.html) from CS320.  Chapter 7 of [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) discusses user stories.
+If you're a little rusty on how to identify and document requirements, please review [Lecture 8](https://ycpcs.github.io/cs320-spring2019/lectures/lecture08.html) from CS320.  "UML Distilled" from CS320 discusses use cases and user stories.
 
 <!--
 Consider creating initial issues that correspond to the features of the system, i.e. the tasks necessary for implementing each system requirement. Each requirements may consist of multiple issues. Be sure to add a description to each issue explaining the functionality and requirement the issue will address.
