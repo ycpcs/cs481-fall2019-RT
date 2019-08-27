@@ -1,16 +1,15 @@
 ---
 layout: default
 course_number: CS481-102
-title: Weekly Progress Demos
+title: Weekly Journals, Progress Reports, and Demos
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
+# Expectations for Weekly Journals, Progress Reports, and Demos
 
-# Expectations for Weekly Journals and Demos
-
-Here are what we would like to see from you for the weekly (Wednesday) demos.
+On the weeks that you do not have an assignment to present, you will give progress reports.  Here are what we would like to see from you for those weekly (Wednesday) meetings.  
 
 
 ## Journal entries (individual)
@@ -30,7 +29,7 @@ Your journal entries should be complete by Wednesday at 7:00a (so that we can us
 
 ## Demo (individual)
 
-During the bi-weekly staus reports, each team and each student from that team will present their progress *individually*.  Your job is to very briefly (1-2 minutes) present/demonstrate what you worked on during the previous 2 weeks, and how your efforts are contributing to the overall success of your team's portion of the project.  You shoudl present two or three of your most important contributions (as documented in your journal entry for the previous 2 weeks).
+During the weekly staus reports, each team and each student from that team will present their progress *individually*.  Your job is to very briefly (1-2 minutes) present/demonstrate what you worked on during the previous week, and how your efforts are contributing to the overall success of your team's portion of the project.  You should present two or three of your most important contributions (as documented in your journal entry for the previous week).
 
 Ways that you can demonstrate progress include
 
@@ -49,7 +48,7 @@ In addition to the individual meetings, we will generally meet with each team as
 
 # Evaluation
 
-For each weekly demo, you (individually) will receive one of the following evaluations:
+For each weekly meeting, you (individually) will receive one of the following evaluations:
 
 * **Exceeds expectations**: We think you are making an extraordinary contribution to your project, and that overall, your team is on course to have a very strong final progress.
 * **Meets expectations**: We think you are making an adequate contribution to your project, and that your team is on track for a solid (but perhaps not exceptional) final product.

@@ -44,7 +44,7 @@ There will be 4-5 teams of 2-4 people each, working in a coordinated fashion to 
 	* **Team Saturn:**  Visualization and Virtualization (C#, .NET, JS, Unity, VR (HTC Vive), AR (MS Hololens)<br>
 	* **Team Luna:**    Cross-Platform Mobile Application (Android, Swift, XCode, React, Xamarin, etc.)
 	
-The standard user interface for the Radio Telescope is a web-based GUI.  The website and control room application interface via the back-end server and database.  The new mobile development application will also interact with the bacl-end server and database.  The simulation, visualization, and virtualization components will be able to substitute for the physical radio telescope, serve as SW test tools, and also be used as educational tools by YCAS.
+The standard user interface for the Radio Telescope is a web-based GUI.  The website and control room application interface via the back-end server and database.  The new mobile development application will also interact with the back-end server and database.  The simulation, visualization, and virtualization components will be able to substitute for the physical radio telescope, serve as SW test tools, and also be used as educational tools by YCAS.
 
 The Radio Telescope Engineering Capstone Team Drive has been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
 
@@ -63,12 +63,14 @@ Your YCAS clients, Kerry Smith and Todd Ullery will be present at most meetings 
 Your team's grade will be determined as a weighted average of the grades on the 7 assignments, as follows:
 
 -   Assignment 1 - Team Project Proposal - **5%**
--   Assignment 2 - Daily Progress Journals, Bi-Weekly Status Reports and Demonstrations - **20%**
+-   Assignment 2 - Weekly Progress Journals, Status Reports, Demonstrations - **20%**
 -   Assignment 3 - Requirements - **10%**
 -   Assignment 4 - Analysis and Design - **15%**
 -   Assignment 5 - Minimal Working System - **10%**
 -   Assignment 6 - 50% Working System - **10%**
 -   Assignment 7 - Final System, Report, and Presentation - **30%**
+
+NOTE: You will be presenting your work for each of these assignments in class on the Wednesday they are due.  On the days that you do not have an assignment due, you will be presenting progress reports, as part of assignment 2.
 
 Grades will be assigned on a 100-point scale according to the following table:
 
